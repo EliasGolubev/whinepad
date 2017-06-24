@@ -9,3 +9,5 @@ bundle.css
 discover-bundle.js
 
 npm-debug.log
+
+in_module.sh
