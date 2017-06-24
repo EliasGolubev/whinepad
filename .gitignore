@@ -6,5 +6,6 @@ __deployme
 
 bundle.js
 bundle.css
+discover-bundle.js
 
 npm-debug.log
