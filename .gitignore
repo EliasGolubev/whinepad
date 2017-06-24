@@ -6,3 +6,5 @@ __deployme
 
 bundle.js
 bundle.css
+
+npm-debug.log
